@@ -1,0 +1,275 @@
+
+2 Job-Title: Full Stack Developer
+ 	Job-description: RequirementsResponsibilitiesSkills And AbilitiesLocationStrong organizational and project management skills.Proficiency with fundamental front end lan...
+ 	Skills: css	database	security	java	git	postgresql	html	mysql	mongodb	rest	python	oracle	rdbms	javascript	ruby	nosql	node.js	php	.net
+
+ 	Company Name: Kriscent Techno Hub Pvt. Ltd.
+
+ 	Location: Kota
+
+ 	Posted Date: 1 day ago
+
+
+1 Job-Title: Software Engineer - Azure Databricks Job Job Details | Yash Technologies
+ 	Job-description: Software Engineer - Azure Databricks JobDate: Nov 7, 2024Job Requisition Id: 57695Location: Hyderabad, IN | Indore, IN | Pune, IN | Pune, MH, IN | Ind...
+ 	Skills: azure data factory   azure databricks   python programming   pyspark development   etl processes	storage	database	software engineer	machine learning	sql database
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+4 Job-Title: Senior Software Engineer, Back End (Java, AWS) at Capital One
+ 	Job-description: R198804Posted: 09/27/2024Position: Senior Software Engineer, Back End (Java, AWS)Location: Plano, Texas | McLean, VirginiaCategory: EngineeringExperie...
+ 	Skills: back end development	cloud services  ( aws )	agile methodologies	programming languages	database management	css	orchestration	senior software engineer	sql	docker	java	html	software engineering	san	python	rdbms	microsoft azure	javascript	nosql
+
+ 	Company Name: CAPITAL ONE FINANCIAL SERVICES CLIENT
+
+ 	Location: Plano
+
+ 	Posted Date: 1 day ago
+
+
+3 Job-Title: Lead consultant
+ 	Job-description: Lead ConsultantJob SummaryLocation: NagpurProject role: Lead ConsultantQualification: B-TechExperience: 9-11 YearsSkills: SAP ABAP on HANANo. of posit...
+ 	Skills: sap abap on hana	object oriented abap	odata development	adobe forms experience	hana studio expertise	sql	enhancements	xml	brf	ale	sap hana	idoc	workflow	edi	sap fiori
+
+ 	Company Name: HCL Technologies Ltd
+
+ 	Location: Nagpur
+
+ 	Posted Date: 1 day ago
+
+
+5 Job-Title: Senior Software Engineer, Full Stack at Capital One
+ 	Job-description: : Senior Software Engineer, Full StackPosted: 09/27/2024Job ID: R198800Location: McLean, Virginia | Plano, TexasCategory: EngineeringExperience Level:...
+ 	Skills: full stack development	agile collaboration	cloud solutions	programming languages	data solutions	css	orchestration	senior software engineer	sql	docker	java	html	software engineering	san	python	rdbms	microsoft azure	javascript	nosql
+
+ 	Company Name: CAPITAL ONE FINANCIAL SERVICES CLIENT
+
+ 	Location: Plano
+
+ 	Posted Date: 1 day ago
+
+
+7 Job-Title: Web Developer React Js & Node Js
+ 	Job-description: The candidate shall have to:-Work on the cloud-based backend and frontend system built in React and Nodejs.He shall be responsible for the development...
+ 	Skills: website	web design	designing
+
+ 	Company Name: amiure international  ( railrecipe )
+
+ 	Location: Patna
+
+ 	Posted Date: 1 day ago
+
+
+6 Job-Title: Bazaarvoice - Data Engineer II
+ 	Job-description: Job Title: Data Engineer IILocation: Edmonton, AlbertaDepartment: Engineering  Engineering - GeneralEmployment Type: Full-timeWork Arrangement: Hybrid...
+ 	Skills: data pipeline development	python programming	sql expertise	data transformation	cloud platforms	team player	problem solving
+
+ 	Company Name: Bazaarvoice
+
+ 	Location: Canada
+
+ 	Posted Date: 1 day ago
+
+
+10 Job-Title: Flutter Internship in Ahmedabad
+ 	Job-description: Maxgen Technologies pvt ltd offers live project internship ahmedabad .we are offering internships in f;utter and mobile app development program.why ou...
+ 	Skills: .
+
+ 	Company Name: Maxgen Technologies
+
+ 	Location: Ahmedabad,  Bhavnagar,  Junagarh,  Rajkot,  Surendranagar
+
+ 	Posted Date: 1 day ago
+
+
+11 Job-Title: Python Internshp in Ahmedabad
+ 	Job-description: Maxgen Technologies pvt ltd is located in ahmedabad offeringinternship program. internship we are offering in core python ,django and machine learning...
+ 	Skills: .
+
+ 	Company Name: Maxgen Technologies
+
+ 	Location: Ahmedabad,  Anand,  Gandhinagar,  Mehsana,  Surat
+
+ 	Posted Date: 1 day ago
+
+
+12 Job-Title: Python Engineer
+ 	Job-description: AccioJob is thrilled to announce an                    forMakunAI Global for the role ofPython         .            :- Degree: All Degrees- Graduation...
+ 	Skills: Data structures	algorithms	Python	Django	Fast API
+
+ 	Company Name: ACCIOJOB PRIVATE LIMITED
+
+ 	Location: Noida/Greater Noida
+
+ 	Posted Date: 1 day ago
+
+
+13 Job-Title: Software Engineer - Backend
+ 	Job-description: Software Engineer - BackendFull-timeCompany DescriptionLaunched in 2007 by Aloke Bajpai &amp; Rajnish Kumar, ixigo is a technology company focused...
+ 	Skills: java / jee expertise	algorithms & data structures	distributed systems design	e commerce applications	performance optimization	artificial intelligence	memory management	j2ee	software engineer	mysql	mongodb	machine learning	infrastructure
+
+ 	Company Name: fixigo
+
+ 	Location: Bengaluru / Bangalore,  Hyderabad/Secunderabad,  Gurgaon
+
+ 	Posted Date: 1 day ago
+
+
+14 Job-Title: Sr. Software Engineer - AWS Job Job Details | Yash Technologies
+ 	Job-description: Sr. Software Engineer - AWS JobDate: Nov 17, 2024Job Requisition Id: 59215Location: Pune, MH, IN Pune, IN Indore, IN Hyderabad, IN Hyderabad, TG, IN H...
+ 	Skills: aws cloud solutions	python programming	data engineering	cloud architecture	problem solving abilities	hosting	storage	software engineer	api	infrastructure	gateway
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+15 Job-Title: Module Lead - MS SQL Server Job Job Details | Yash Technologies
+ 	Job-description: Module Lead - MS SQL Server JobDate: Nov 17, 2024Job Requisition Id: 59273Location: Hyderabad, TG, IN; Pune, MH, IN; Pune, IN; Indore, IN; Hyderabad, ...
+ 	Skills: database design	sql optimization	data integration	performance tuning	problem solving	fundamentals	soa	sql coding	database development	asp.net	ssrs	c#	mcdba	access management	triggers	sql programming	forms
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+16 Job-Title: Sr. Solution Architect - Global Job Job Details | Yash Technologies
+ 	Job-description: Sr. Solution Architect - Global JobDate: Nov 17, 2024Job Requisition Id: 56515Location:Hyderabad, INPune, MH, INHyderabad, TG, INIndore, MP, IN, 45200...
+ 	Skills: servicenow architecture	presales experience	solution development	itsm & itom	bid management	solution architect	service management	collaboration	csm
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+17 Job-Title: Associate Architect - ServiceNow Job Job Details | Yash Technologies
+ 	Job-description: Associate Architect - ServiceNow JobDate: Nov 17, 2024Job Requisition Id: 56513Location: Hyderabad, IN; Indore, MP, IN; Pune, MH, INYASH Technologies ...
+ 	Skills: servicenow implementation	web services integration	itil framework knowledge	technical architecture	javascript proficiency	css	orchestration	business rules	system development	html	api	web technologies	soap	rest	rdbms	service catalog	infrastructure	leadership skills
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+18 Job-Title: Module Lead - IBM Sterling B2B Integrator 1 Job Job Details | Yash Technologies
+ 	Job-description: Module Lead - IBM Sterling B2B Integrator 1 JobDate: Nov 17, 2024Job Requisition Id: 58048Location: Hyderabad, TG, IN Indore, IN Indore, MP, IN, 45200...
+ 	Skills: edi management	project documentation	process improvement	customer collaboration	technical communication	project consultant	project manager	project plan
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Bengaluru / Bangalore,  Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+19 Job-Title: Sr. Software Engineer - .Net   Azure Job Job Details | Yash Technologies
+ 	Job-description: Sr. Software Engineer - .Net   Azure JobDate: Nov 17, 2024Job Requisition Id: 59285Location: Hyderabad, TG, IN; Indore, MP, IN; Pune, MH, INYASH Techn...
+ 	Skills: 	net development	restful apis	azure functions	secure authentication	unit testing	c#	.net technologies	security	asp.net	debugging	software engineer	soap
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+20 Job-Title: Sr. Solution Architect - Azure PaaS 1 Job Job Details | Yash Technologies
+ 	Job-description: Sr. Solution Architect - Azure PaaS 1 JobDate: Nov 17, 2024Job Requisition Id: 57072Location: Pune, MH, IN; Hyderabad, TG, IN; Indore, MP, INYASH Tech...
+ 	Skills: azure paas expertise	cloud architecture design	security best practices	programming knowledge	communication skills	sql	database	java	iam	technical skills	vms	c#	python	solution architect	microsoft azure	nosql	written communication	infrastructure	sql database
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+21 Job-Title: Sr. Software Engineer - Python Job Job Details | Yash Technologies
+ 	Job-description: Sr. Software Engineer - Python JobDate: Nov 17, 2024Job Requisition Id: 59336Location: Indore, MP, IN; Hyderabad, IN; Indore, IN; Indore, MP, IN; Indo...
+ 	Skills: python development	pyspark integration	aws cloud services	api development	unit testing	github	docker	database	oops	debugging	software engineer	mysql	gateway
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+22 Job-Title: Sr.Consultant - ServiceNow Job Job Details | Yash Technologies
+ 	Job-description: Sr. Consultant - ServiceNow JobDate: Nov 17, 2024Job Requisition Id: 56511Location: Hyderabad, IN; Pune, IN; Indore, IN; Indore, MP, IN; Indore, IN; P...
+ 	Skills: servicenow implementation	agile methodology	technical requirement gathering	user interface development	itil / itsm processes	business rules	ajax	sso	api	rest	javascript	consultant	soap	implementation specialist
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+23 Job-Title: Sr. Software Engineer - MS - SSIS Job Job Details | Yash Technologies
+ 	Job-description: Sr. Software Engineer - MS - SSIS JobDate: Nov 17, 2024Job Requisition Id: 57699Location: Hyderabad, IN; Indore, IN; Bangalore, KA, IN; Pune, IN; Indo...
+ 	Skills: ms ssis expertise	sql / plsql scripting	etl process design	stored procedures development	cloud data migration	t-sql	ssrs	oracle	sql  /  plsql	bi	software requirements	database	software engineer
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Bengaluru / Bangalore,  Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+24 Job-Title: Tech Lead - Pre-Sales (Data and Analytics) Job Job Details | Yash Technologies
+ 	Job-description: Tech Lead - Pre-Sales (Data and Analytics) JobDate: Nov 17, 2024Job Requisition Id: 58141Location: Indore, MP, IN; Pune, MH, IN; Bangalore, KA, IN; Hy...
+ 	Skills: data analytics expertise	cloud platforms knowledge	presentation skills	research and analysis	client engagement	bi	data warehousing	written communication	etl
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Bengaluru / Bangalore,  Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+25 Job-Title: AEM Tester Job Job Details | Yash Technologies
+ 	Job-description: AEM Tester JobDate: Nov 17, 2024Job Requisition Id: 59326Location: Pune, IN Bangalore, KA, IN IN Hyderabad, TG, IN Indore, IN RJ, INYASH Technologies ...
+ 	Skills: aem platform knowledge	manual testing experience	agile methodology proficiency	automation testing skills	api testing tools	test automation	tester	jmeter	selenium	jenkins	jira
+
+ 	Company Name: Yash Technologies Pvt Ltd
+
+ 	Location: Bengaluru / Bangalore,  Pune,  Hyderabad/Secunderabad,  Indore
+
+ 	Posted Date: 1 day ago
+
+
+8 Job-Title: Data Analyst Internship in Pune
+ 	Job-description: Maxgen Technologies pvt ltd offering data science internship in pune. internships we are offering in data analystprogarm.why we are?real-time live pro...
+ 	Skills: .
+
+ 	Company Name: Maxgen Technologies
+
+ 	Location: Pune,  Amravati,  Dhule,  Sangli,  Satara
+
+ 	Posted Date: 1 day ago
+
+
+9 Job-Title: React js Internship in Pune
+ 	Job-description: Maxgen Technologies pvt ltd is located in pune . we are hiring fresher candidates for react js  development intership programme.benefit of our interns...
+ 	Skills: .
+
+ 	Company Name: Maxgen Technologies
+
+ 	Location: Pune,  Jalgaon,  Kolhapur,  Nasik,  Solapur
+
+ 	Posted Date: 1 day ago
+
