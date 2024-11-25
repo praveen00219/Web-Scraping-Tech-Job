@@ -21,7 +21,7 @@ To get started, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/praveen00219/Job-postings-scraping.git
+   git clone https://github.com/praveen00219/Web-Scraping-Tech-Job.git
    cd <FolderName>
 
    npm install
